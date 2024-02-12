@@ -1,0 +1,13 @@
+{
+  "name": "playwright-cop-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ellina-kulagina/playwright-cop-demo.git",
+  "author": "ellina-kulagina <ellina.kulagina@thirdbridge.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.17"
+  },
+  "scripts": {}
+}
